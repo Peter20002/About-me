@@ -180,6 +180,8 @@ text-align: left;
   animation-duration: 1s;
   animation-fill-mode:forwards ;
   animation-delay: 0s;
+      border: 2px solid #edf0f1;
+
 }
 
 .sk{
@@ -195,6 +197,8 @@ text-align: left;
   animation-duration: 1s;
   animation-fill-mode:forwards ;
   animation-delay: 0s;
+      border: 2px solid #edf0f1;
+
 }
 
 .ss{
@@ -213,6 +217,8 @@ text-align: left;
   animation-duration: 1s;
   animation-fill-mode:forwards ;
   animation-delay: 0s;
+      border: 2px solid #edf0f1;
+
 
 }
 .s{
@@ -229,6 +235,8 @@ text-align: left;
   animation-fill-mode:forwards ;
   animation-delay: 0s;
   transition: all 1s ease 0s;
+      border: 2px solid #edf0f1;
+
 }
 
 .a{
