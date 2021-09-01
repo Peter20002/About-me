@@ -7,6 +7,7 @@
 
 body{
 background-color: #142850;
+      
 }
 
 .c{
@@ -542,6 +543,7 @@ margin-top: -0.4cm;
    body{
        background-image: url("./img/phon.png");
        background-size: cover;
+        height: 100vh;
    }
 .all{
     margin: 0;
